@@ -8,7 +8,8 @@ main ()
 {
 	double temperatura ;
 	cout<<" CAMARA DETECTORA DEL SEGUNDO SINTOMA AL COVID-19 "<<endl<<endl;
-	cout<<" recuerda que si tienes una temperatura mayor a 36 grados c es momento de buscar ayuda profesional  "<<endl<<endl; cout <<"digite su temperatura actual por favor: "<<endl;
+	cout<<" recuerda que si tienes una temperatura mayor a 36 grados c es momento de buscar ayuda profesional  "<<endl<<endl; 
+	cout <<"digite su temperatura actual por favor: "<<endl;
 	cin>>temperatura;
 	if(temperatura>36)
 {
